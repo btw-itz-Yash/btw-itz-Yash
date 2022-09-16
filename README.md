@@ -18,18 +18,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yash-gangwar-57a7b2183" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-gangwar-57a7b2183" height="30" width="40" /></a>
-
 <a href="https://instagram.com/yash_gangwar_473" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yash_gangwar_473" height="30" width="40" /></a>
-
 <a href="https://twitter.com/yashgan87426541" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashgan87426541" height="30" width="40" /></a>
-
 <a href="https://fb.com/yash.gangwar.942" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yash.gangwar.942" height="30" width="40" /></a>
-
 <a href="https://www.leetcode.com/btw_itz_Yash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="btw-itz-yash" height="30" width="40" /></a>
-
 <a href="https://www.codechef.com/users/Yash_465" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yash_465" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/b_46_yashgangwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="b_46_yashgangwa" height="30" width="40" /></a>
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
